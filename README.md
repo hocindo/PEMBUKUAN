@@ -17,3 +17,6 @@ Hari Minggu Tanggal 12 Oktober 2025
 | 002228588888      | Rp19.000        | -                |
 | UQAleo..          | 0.46 TON        | -                |
 | PLN dan Wi-Fi     | -               | Rp100.000        |
+
+
+> https://tonscan.org/address/UQAleoed649QywoLVz3JUxaeyyGXm10MYOOQ2XKBMCEHTRwW
